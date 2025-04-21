@@ -1,6 +1,6 @@
 git status: to check the status
 
-To commit 
+To commit after file modification 
  git add.
  git commit -m ""
  git push
