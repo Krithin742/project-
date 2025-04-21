@@ -6,3 +6,5 @@ To commit after file modification
  git push
 to pull data
 server modification 
+ to clone other code 
+  git clone "url of that code" 
