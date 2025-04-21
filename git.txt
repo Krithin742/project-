@@ -4,3 +4,5 @@ To commit after file modification
  git add.
  git commit -m ""
  git push
+to pull data
+server modification 
