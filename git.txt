@@ -1,0 +1,6 @@
+git status: to check the status
+
+To commit 
+ git add.
+ git commit -m ""
+ git push
